@@ -1,5 +1,5 @@
 # lab4-web-foundations-html
-Comp 305 we foundation FA25
+Comp 305 foundation FA25
 
 # Some warnings encountered
 
